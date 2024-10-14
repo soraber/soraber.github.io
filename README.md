@@ -22,10 +22,11 @@ Hello, Soraber is here!
 
 <p align="center">
 	<a href="mailto:wuhongda2012@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	or <a href="mailto:thuwhd20@163.com"></a>
-    <a href="https://www.youtube.com/@HongdaWu/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
+    	<a href="https://www.youtube.com/@HongdaWu/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
 </p>
+or mail me at <a href="thuwhd20@163.com"></a>a
 
 ## 💻 The rest is on the way
 
+## 📝 Edits info
 Last Update: 10/14/2024 (UTC+8)
