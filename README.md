@@ -27,9 +27,12 @@ Hello, Soraber is here!
 Besides, mailing me at "thuwhd20@163.com" is also acceptable
 
 ## 📝 Interests
-For study: I love VR&AR technology, for everyone should own the freedom to explore their life out of reality.</n>
-For life: I can play basic Tennis&table Tennis and enjoy that. Why basic? Because few friends have time for them.</n>
-For spirit: ACGN and philosophy. There should always be some places for love, thinking and fun, even if they are neither great nor sacred.</n>
+For study: I love VR&AR technology, for everyone should own the freedom to explore their life out of reality.   
+
+For life: I can play basic Tennis&table Tennis and enjoy that. Why basic? Because few friends have time for them.  
+
+For spirit: ACGN and philosophy. There should always be some places for love, thinking and fun, even if they are neither great nor sacred.   
+
 
 ## 💻 The rest is on the way
 
