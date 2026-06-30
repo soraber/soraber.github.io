@@ -23,6 +23,7 @@ Hello, Soraber is here!
 <p align="center">
 	<a href="mailto:wuhongda2012@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     	<a href="https://www.youtube.com/@HongdaWu/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
+			<a href="https://www.linkedin.com/in/hongda-wu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 Besides, mailing me at "thuwhd20@163.com" is also acceptable
 
