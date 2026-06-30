@@ -8,13 +8,15 @@ Hello, Soraber is here!
 <hr>
 
 <pre>
-💻 Somebody with a heart for CS, of course, student yet
-📚 My Bachelor From Computer Science from Tsinghua Univ., China & Looking for chances of further study 
-📝 Research interests in VR/AR, especially editing/interacting stuffs  
-🌱 Learning mainly about paradigms&ideas in CV&CG
-🌟 Main language: Python, C++; Simple skills: Golang, C
-🚩 Hobbies: Table Tennis, Tennis, Swim; Philosophy of science and society; House Music and Expressionism Arts; Video Games (like SH2)
-😃 Using He/His/Him is enough for me
+💻 Somebody with a heart for AI Agent Engineering & CS/CV Engineering, 
+📚 Got B.S. CS from Tsinghua; Study as M.S. CE student in NYU now (expected graduation: 12/2026) 
+📝 For AI Agent Engineering: mainly focus on LLM Model Training & Fine-tuning, LLM Agent System/Workflow Design 
+📝 For CS/CV Engineering: mainly focus on VR/AR technologies, game design
+🌱 Proficient language: Python, C++, Verilog, Linux
+🌟 Skills (at least basics): LoRA / PEFT, LangChain, RAG, prompt engineering, embeddings & vector search, GPT-4o, LLaMA, PyTorch, diffusion models (Stable Diffusion), 
+	model training & evaluation (BLEU, perplexity), SQL, database design & maintenance, big data manipulation, real-time embedded system application design, ray-tracing algorithm
+🚩 Hobbies: Table Tennis, Tennis, Swim; Video Games and sci-fi works; House Music and Arts of Expressionism ;
+😃 Pronoun: Just He/His/Him is okay
 </pre>
 <hr>
 
@@ -25,15 +27,15 @@ Hello, Soraber is here!
     	<a href="https://www.youtube.com/@HongdaWu/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
 			<a href="https://www.linkedin.com/in/hongda-wu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
-Besides, mailing me at "thuwhd20@163.com" is also acceptable
+Besides, mailing me at "thuwhd20@163.com" is also acceptable. My NYU email address "hw3961@nyu.edu" will expire after 12/2026.
 
-## 📝 Interests
-For study: I love VR&AR technology, for everyone should own the freedom to explore their life out of reality.   
+## 😃 My role (to be):
 
-For life: I can play basic Tennis&table Tennis and enjoy that. Why basic? Because few friends have time for them.  
+Problem Seeker & Solver: Nowadays good problems guide all paces. To find them, to solve them, to reproduce them in a good taste.
 
-For spirit: ACGN and philosophy. There should always be some places for love, thinking and fun, even if they are neither great nor sacred.   
+Method Developer: We first work fast to solve problems, then work to solve problems fast; Otherwise, let AI solve fast problems.
 
+Teamwork Person: Teamwork makes things work greatly, and I'd like to see my efforts being a part.
 
 ## 💻 The rest is on the way
 
