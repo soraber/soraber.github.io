@@ -8,7 +8,7 @@ Hello, Soraber is here!
 <hr>
 
 <pre>
-💻 Somebody with a heart for AI Agent Engineering & CS/CV Engineering, 
+💻 Somebody with a heart for AI Agent Engineering & CS/CV Engineering
 📚 Got B.S. CS from Tsinghua; Study as M.S. CE student in NYU now (expected graduation: 12/2026) 
 📝 For AI Agent Engineering: mainly focus on LLM Model Training & Fine-tuning, LLM Agent System/Workflow Design 
 📝 For CS/CV Engineering: mainly focus on VR/AR technologies, game design
