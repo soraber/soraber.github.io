@@ -39,7 +39,7 @@ Teamwork Person: Teamwork makes things work greatly, and I'd like to see my effo
 
 ## 💻 Interesting Things on My Github
 
-3 basic AI Agent related projects (reproducible, automated by codex)
+3 basic AI Agent related projects (reproducible, automated by codex): [ai_project_artifacts](https://github.com/soraber/ai_project_artifacts)
 
 ## 📝 Edits info
 Last Update: 06/29/2026 (UTC-4)
