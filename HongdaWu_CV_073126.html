@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Hongda Wu - AI Agent Engineering and Computer Engineering resume">
+  <title>Hongda Wu | AI Agent Engineer Resume</title>
+  <style>
+    :root {
+      --ink: #172033;
+      --muted: #526173;
+      --navy: #203a62;
+      --teal: #25736b;
+      --rule: #a8b4c2;
+      --paper: #ffffff;
+      --canvas: #edf1f4;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    html {
+      background: var(--canvas);
+    }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      background: var(--canvas);
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 9.1pt;
+      line-height: 1.18;
+    }
+
+    a {
+      color: inherit;
+      text-decoration-color: #8c9bad;
+      text-underline-offset: 2px;
+    }
+
+    a:hover,
+    a:focus-visible {
+      color: var(--teal);
+      text-decoration-color: currentColor;
+    }
+
+    .resume {
+      width: min(8.5in, 100%);
+      max-width: 100%;
+      min-height: 11in;
+      margin: 28px auto;
+      padding: 0.36in 0.46in 0.34in;
+      background: var(--paper);
+      box-shadow: 0 14px 36px rgba(25, 38, 54, 0.14);
+    }
+
+    .identity {
+      padding-bottom: 5px;
+      text-align: center;
+      border-bottom: 2px solid var(--navy);
+    }
+
+    .identity h1 {
+      margin: 0;
+      color: var(--navy);
+      font-size: 19pt;
+      line-height: 1;
+      letter-spacing: 0;
+    }
+
+    .contact {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 2px 7px;
+      margin-top: 5px;
+      color: #344356;
+      font-size: 8.15pt;
+    }
+
+    .contact > *,
+    .entry-heading > * {
+      min-width: 0;
+    }
+
+    .contact a {
+      overflow-wrap: anywhere;
+    }
+
+    .separator {
+      color: #8a97a6;
+    }
+
+    section {
+      margin-top: 5px;
+    }
+
+    section > h2 {
+      margin: 0 0 3px;
+      padding-bottom: 1px;
+      color: var(--navy);
+      border-bottom: 1.2px solid var(--navy);
+      font-size: 10.5pt;
+      line-height: 1.05;
+      text-transform: uppercase;
+      letter-spacing: 0;
+    }
+
+    .entry {
+      margin-top: 3px;
+      break-inside: avoid;
+    }
+
+    .entry:first-of-type {
+      margin-top: 0;
+    }
+
+    .entry-heading {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) auto;
+      align-items: baseline;
+      column-gap: 12px;
+    }
+
+    .entry-heading h3 {
+      margin: 0;
+      font-size: 9.25pt;
+      line-height: 1.14;
+      overflow-wrap: anywhere;
+    }
+
+    time,
+    .date {
+      color: var(--muted);
+      font-size: 8.45pt;
+      white-space: nowrap;
+    }
+
+    .subline {
+      margin: 1px 0 0;
+      color: #37475a;
+      font-style: italic;
+    }
+
+    ul {
+      margin: 2px 0 0;
+      padding-left: 16px;
+    }
+
+    li {
+      margin: 1px 0;
+      padding-left: 1px;
+    }
+
+    .compact-entry {
+      margin: 2px 0 0;
+    }
+
+    .compact-entry strong {
+      color: #1e2c40;
+    }
+
+    .skills p {
+      margin: 2px 0 0;
+    }
+
+    .skills strong {
+      color: var(--navy);
+    }
+
+    @media (max-width: 720px) {
+      body,
+      html {
+        background: var(--paper);
+      }
+
+      .resume {
+        width: 100%;
+        min-height: 0;
+        margin: 0;
+        padding: 22px 18px 28px;
+        box-shadow: none;
+        overflow-wrap: anywhere;
+      }
+
+      .identity h1 {
+        font-size: 24px;
+      }
+
+      .contact {
+        font-size: 12px;
+      }
+
+      .entry-heading {
+        grid-template-columns: 1fr;
+        row-gap: 1px;
+      }
+
+      time,
+      .date {
+        white-space: normal;
+      }
+    }
+
+    @page {
+      size: Letter;
+      margin: 0;
+    }
+
+    @media print {
+      html,
+      body {
+        width: 8.5in;
+        min-height: 11in;
+        background: #ffffff;
+        print-color-adjust: exact;
+        -webkit-print-color-adjust: exact;
+      }
+
+      .resume {
+        width: 8.5in;
+        min-height: 11in;
+        margin: 0;
+        box-shadow: none;
+      }
+
+      a {
+        text-decoration: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main class="resume" aria-label="Hongda Wu resume">
+    <header class="identity">
+      <h1>HONGDA WU</h1>
+      <div class="contact" aria-label="Contact information">
+        <span>New York, NY</span>
+        <span class="separator" aria-hidden="true">&middot;</span>
+        <a href="tel:+19178602744">(+1) 917-860-2744</a>
+        <span class="separator" aria-hidden="true">&middot;</span>
+        <a href="mailto:wuhongda2012@gmail.com">wuhongda2012@gmail.com</a>
+        <span class="separator" aria-hidden="true">&middot;</span>
+        <a href="https://www.linkedin.com/in/hongda-wu">linkedin.com/in/hongda-wu</a>
+        <span class="separator" aria-hidden="true">&middot;</span>
+        <a href="https://soraber.github.io">soraber.github.io</a>
+      </div>
+    </header>
+
+    <section aria-labelledby="education-heading">
+      <h2 id="education-heading">Education</h2>
+
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>New York University, Tandon School of Engineering &mdash; New York, NY</h3>
+          <time datetime="2025-08/2026-12">Aug 2025 &ndash; Dec 2026 (Expected)</time>
+        </div>
+        <p class="subline">M.S. in Computer Engineering &nbsp;|&nbsp; GPA: 3.89 / 4.0</p>
+      </article>
+
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>Tsinghua University &mdash; Beijing, China</h3>
+          <time datetime="2020-09/2024-06">Sep 2020 &ndash; Jun 2024</time>
+        </div>
+        <p class="subline">B.S. in Computer Science</p>
+      </article>
+    </section>
+
+    <section aria-labelledby="agent-projects-heading">
+      <h2 id="agent-projects-heading">LLM &amp; Agent Projects</h2>
+
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>LLM Fine-Tuning Pipeline</h3>
+          <time datetime="2026-06">Jun 2026</time>
+        </div>
+        <ul>
+          <li>Fine-tuned a LLaMA 3 (8B) model via supervised fine-tuning (SFT) on a 50K-sample domain-specific dataset with LLaMA-Factory &mdash; owning prompt design, data cleaning/tokenization, and mixed-precision training &mdash; improving response relevance and coherence by 15%.</li>
+          <li>Built a scalable, automated data-preprocessing pipeline (JSONL conversion, augmentation, batching) and integrated LoRA adapters, cutting GPU hours by 40% while preserving model fidelity.</li>
+          <li>Containerized and deployed the model behind a FastAPI service in Docker with automated evaluation (BLEU, perplexity, human-in-the-loop feedback), reducing average inference latency by 30%.</li>
+        </ul>
+      </article>
+
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>Retrieval-Augmented Generation (RAG) System</h3>
+          <time datetime="2026-04">Apr 2026</time>
+        </div>
+        <ul>
+          <li>Designed and implemented an end-to-end RAG pipeline for document QA with LangChain and GPT-4o, benchmarked against open-source LLaMA and Mistral models served via Deep Infra.</li>
+          <li>Engineered the full retrieval stack: text extraction, chunking, embedding generation, and vector search.</li>
+          <li>Lifted answer quality 15% over a baseline RAG through advanced prompt engineering and HyDE (Hypothetical Document Embeddings) for more accurate context retrieval.</li>
+        </ul>
+      </article>
+
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>LLM Agent System</h3>
+          <time datetime="2026-03">Mar 2026</time>
+        </div>
+        <ul>
+          <li>Built a local search agent with LangChain, developing hands-on experience in LLM agent orchestration and MCP tooling.</li>
+          <li>Designed a multi-agent architecture with CrewAI, including a Marketing Strategy agent that applied LLMs to real-world business problems.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section aria-labelledby="research-heading">
+      <h2 id="research-heading">Generative AI &amp; ML Research</h2>
+
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>Embodied Video Planning &mdash; Undergraduate Thesis</h3>
+          <time datetime="2024-02/2024-06">Feb 2024 &ndash; Jun 2024</time>
+        </div>
+        <ul>
+          <li>Trained the diffusion-based InstructPix2Pix model on a robotics dataset, demonstrating its ability to learn time-related concepts in conditional image generation; generated coherent intermediate frames given the start and end states of a robotic arm.</li>
+        </ul>
+      </article>
+
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>NeRF-Editing: Instance-Based Virtual Try-On</h3>
+          <time datetime="2023-06/2023-08">Jun 2023 &ndash; Aug 2023</time>
+        </div>
+        <ul>
+          <li>Combined Latent Diffusion, Virtual Try-On, NeRF, and refinement models into a novel framework that enhanced virtual fashion try-on experiences.</li>
+        </ul>
+      </article>
+
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>Image Editing for 2D Object Fusion</h3>
+          <time datetime="2023-09/2023-12">Sep 2023 &ndash; Dec 2023</time>
+        </div>
+        <ul>
+          <li>Researched the Latent Stable Diffusion Model for conditional image generation; independently built a custom object-fusion dataset to train and evaluate a modified model.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section aria-labelledby="systems-heading">
+      <h2 id="systems-heading">Systems, Embedded &amp; Graphics Projects</h2>
+      <p class="compact-entry"><strong>Real-time Embedded System &mdash; Gesture Lock (Feb&ndash;May 2026) &mdash;</strong> STM32L4 (Cortex-M4) gesture-unlock: recorded 3 IMU gestures to non-volatile Flash, matched them to unlock, and exchanged data over the onboard Bluetooth module.</p>
+      <p class="compact-entry"><strong>Database Systems (Feb&ndash;Jun 2023) &mdash;</strong> Database engine on a self-built B+tree supporting all fundamental SQL commands, acceleration on 10MB+ data, and parallel execution in a distributed setting.</p>
+      <p class="compact-entry"><strong>Advanced Computer Graphics &mdash; Ray Tracer (Nov&ndash;Dec 2022) &mdash;</strong> Ray-tracing renderer with Lambertian reflection, Snell refraction, and Schlick blending; optimized via BVH and BRDF-driven sampling with custom materials.</p>
+    </section>
+
+    <section aria-labelledby="experience-heading">
+      <h2 id="experience-heading">Intern Experience</h2>
+      <article class="entry">
+        <div class="entry-heading">
+          <h3>Operations Management Intern &mdash; Guangxi Beihai Yuchaima Petronas Lubricating Oil Co.</h3>
+          <time datetime="2023-07/2023-09">Jul &ndash; Sep 2023</time>
+        </div>
+        <ul>
+          <li>Provided IT maintenance and development for the network operations department, supporting high-end automotive/industrial lubricant production and improving operational efficiency.</li>
+          <li>Managed databases: ran SQL data analysis, indexed and updated records, and implemented a Redis cache layer to accelerate targeted queries.</li>
+          <li>Monitored network connectivity and traffic with Datadog and filed error reports; updated the company website (HTML) and resolved common hardware/software issues (network config, OS troubleshooting, data backups).</li>
+        </ul>
+      </article>
+    </section>
+
+    <section class="skills" aria-labelledby="skills-heading">
+      <h2 id="skills-heading">Skills</h2>
+      <p><strong>LLM &amp; Agents:</strong> SFT, LoRA / PEFT, LLaMA-Factory, LangChain, CrewAI, RAG, HyDE, prompt engineering, embeddings &amp; vector search, GPT-4o, LLaMA, Mistral</p>
+      <p><strong>ML / DL:</strong> PyTorch, diffusion models (Stable Diffusion, InstructPix2Pix), NeRF, model training &amp; evaluation (BLEU, perplexity)</p>
+      <p><strong>Languages &amp; Tools:</strong> Python, C/C++, Verilog, Docker, FastAPI, Linux, Git</p>
+    </section>
+  </main>
+</body>
+</html>

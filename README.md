@@ -44,8 +44,9 @@ Teamwork Person: Teamwork makes things work greatly, and I'd like to see my effo
 - **LLM Fine-Tuning:** Built a 50K-scale Llama 3 8B QLoRA pipeline with controlled adapter-on/off evaluation, reducing held-out answer perplexity by **30.42%**.
 - **RAG Document QA:** Combined E5/FAISS dense retrieval, BM25, HyDE, reciprocal-rank fusion, and cross-encoder reranking, improving the evaluation composite score by **17.55%**.
 - **Local LLM Agent System:** Implemented validated tools, MCP-style contracts, policy controls, and a four-role CrewAI workflow; achieved **100% task success** on 12 test cases and a **35.71% strategy-score improvement**.
+- **Resume / CV:** [View the responsive HTML resume](https://soraber.github.io/HongdaWu_CV_073126.html).
 
 ## 📝 Edits Info
 
-> **Version:** ver 1.0: add AI project summaries and title formatting<br>
-> **Updated:** 2026-07-31 22:21 EDT
+> **Version:** ver 1.1: publish and link HTML resume<br>
+> **Updated:** 2026-07-31 23:07 EDT
