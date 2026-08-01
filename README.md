@@ -28,6 +28,8 @@ Hello, Soraber Is Here!
 			<a href="https://www.linkedin.com/in/hongda-wu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://soraber.github.io/HongdaWu_CV_073126.html" title="Open Resume / CV"><img src="https://img.shields.io/badge/Resume%20%2F%20CV-25736B.svg?style=plastic&logo=googledocs&logoColor=white" alt="Resume / CV"/></a>
 </p>
+The Resume/CV dated 07/31/2026. You can find my mobile phone number near the top.
+
 Besides, mailing me at "thuwhd20@163.com" is also acceptable. My NYU email address "hw3961@nyu.edu" will expire after 12/2026.
 
 ## 😃 My Role (To Be):
@@ -48,5 +50,5 @@ Teamwork Person: Teamwork makes things work greatly, and I'd like to see my effo
 
 ## 📝 Edits Info
 
-> **Version:** ver 1.2: move CV link to contact badges<br>
-> **Updated:** 2026-07-31 23:13 EDT
+> **Version:** ver 1.3: clarify CV date and phone location<br>
+> **Updated:** 2026-07-31 23:20 EDT
