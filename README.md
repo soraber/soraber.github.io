@@ -26,6 +26,7 @@ Hello, Soraber Is Here!
 	<a href="mailto:wuhongda2012@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
     	<a href="https://www.youtube.com/@HongdaWu/"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube"/></a>
 			<a href="https://www.linkedin.com/in/hongda-wu"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://soraber.github.io/HongdaWu_CV_073126.html" title="Open Resume / CV"><img src="https://img.shields.io/badge/Resume%20%2F%20CV-25736B.svg?style=plastic&logo=googledocs&logoColor=white" alt="Resume / CV"/></a>
 </p>
 Besides, mailing me at "thuwhd20@163.com" is also acceptable. My NYU email address "hw3961@nyu.edu" will expire after 12/2026.
 
@@ -44,9 +45,8 @@ Teamwork Person: Teamwork makes things work greatly, and I'd like to see my effo
 - **LLM Fine-Tuning:** Built a 50K-scale Llama 3 8B QLoRA pipeline with controlled adapter-on/off evaluation, reducing held-out answer perplexity by **30.42%**.
 - **RAG Document QA:** Combined E5/FAISS dense retrieval, BM25, HyDE, reciprocal-rank fusion, and cross-encoder reranking, improving the evaluation composite score by **17.55%**.
 - **Local LLM Agent System:** Implemented validated tools, MCP-style contracts, policy controls, and a four-role CrewAI workflow; achieved **100% task success** on 12 test cases and a **35.71% strategy-score improvement**.
-- **Resume / CV:** [View the responsive HTML resume](https://soraber.github.io/HongdaWu_CV_073126.html).
 
 ## 📝 Edits Info
 
-> **Version:** ver 1.1: publish and link HTML resume<br>
-> **Updated:** 2026-07-31 23:07 EDT
+> **Version:** ver 1.2: move CV link to contact badges<br>
+> **Updated:** 2026-07-31 23:13 EDT
